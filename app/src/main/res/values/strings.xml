@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SahabatTani</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Pada Aplikasi Ini Dapat Membantu Para Petani Yang Kesulitan Mencari Solusi Dari Permasalah Tanaman Mereka Khususnya Padi Jadi Tunggu Apa Lagi Ayo Bergabung! </string>
+    <string name="title_welcome_page">Selamat datang di SahabatTani!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu data Kamu ya!</string>
+    <string name="title_login_page">Sudah siap untuk Bergabung Di SahabatTani?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Datang Di SahabatTani!.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="selamat_datang">Selamat Datang.</string>
+    <string name="sign_up_berhasil_hore">sign up berhasil hore</string>
+    <string name="waktunya_login_yeah">waktunya login yeah</string>
+    <string name="oke">oke</string>
+    <string name="sign_up_kamu_gagal">sign up kamu gagal</string>
+    <string name="coba_lagi_yuk">coba lagi yuk</string>
+    <string name="selamat_datang_di_sahabat_tani">Selamat Datang Di Sahabat Tani!</string>
+    <string name="akunnya_sudah_jadi_nih_yuk_login_dan_ketahui_penyakit_tanaman_anda">Akunnya sudah jadi nih.Yuk, login dan Ketahui Penyakit Tanaman anda.</string>
+    <string name="lewati">Lewati</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
